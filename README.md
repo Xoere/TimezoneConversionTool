@@ -1,0 +1,1 @@
+Add info about how to use, how to assign hotkeys
